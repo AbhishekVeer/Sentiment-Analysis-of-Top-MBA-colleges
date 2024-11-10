@@ -1,0 +1,17 @@
+﻿Raw data columns,,Clean data columns
+,,
+Author_name,,Author_name
+Batch_name,,Batch_name
+Review_date,,Review_date
+total_star_comment,,total_star_comment
+all_stars,,all_stars
+Title_comment,,Title_comment
+Placements,,Placements_Star
+Infrastructure,,Placements
+Faculty,,Infrastructure_Star
+other,,Infrastructure
+,,Faculty_Star
+,,Faculty
+,,CampusLife_Star
+,,VFM_Star
+,,other
